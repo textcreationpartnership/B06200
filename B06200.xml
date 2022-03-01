@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trotters journey-man on his amble to the gallowes or the confession of John Mew, before execution</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06200</idno>
+            <idno type="STC">Wing T2306B</idno>
+            <idno type="STC">ESTC R185526</idno>
+            <idno type="EEBO-CITATION">52529331</idno>
+            <idno type="OCLC">ocm 52529331</idno>
+            <idno type="VID">179142</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179142)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2778:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Trotters journey-man on his amble to the gallowes or the confession of John Mew, before execution</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Dated in contemporary ms. at end: Feb: 1659.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Regicides --  England --  17th century --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:179142:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>Trotters <hi>Journey-man on his amble to the</hi> Gallowes <hi>or the confeſſion of</hi> John Mew, <hi>before execution.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Confeſſe to have been brought up under a Trotter, but being taken from thence by my Rider <hi>Tichbourn,</hi> and put into the Tramels of Rebellion, I ſoon took a very good pace, and ever ſince have ſtept at ſuch a diſtance; that I preſumed none ſcruple my interferring, it being eaſie to have driven a Wheel-barrow between my legs when I ſtrutted in the head of my Regiment (ſome report that being in the Tower, I ſhould ſteale King <hi>Henrries</hi> Pin-cuſſion: and for its ſafer conveyance ſlipt it under my twiſt, which occaſioned my pedantick Garbe) but to that I aſſent not; To warn thoſe petty Peeces of good luck which attended mee, ſince I dropt into the Houſe of Office at my Mr. <hi>Pettits:</hi> Be pleaſed to know, I was made a Captain of Horſe (before I was a Souldier) and being to exerciſe my Troupe, (with Bed<g ref="char:EOLhyphen"/>ſtaves in my Holſters) my Word of Command was Stand to your Arms Gentle<g ref="char:EOLhyphen"/>men, by which the nimbler puppets then in motion, thought me more ſit to be a a Colonel of Foot; of which I no ſooner heard, then haſted to my place to ſa<g ref="char:EOLhyphen"/>lute my ſelf with the Title of Nobel Colonel, and their began to ape (as I thought) the moſt becoming Poſtures for my New Created Honour, by which I am now become ſo ridiculous, (and ſome Diſpute whether the ſubſtance was in me, or my likeneſſe the one being a ſhadow, and the other but a vapour,) but to proceed, how buſie I was in the diſciplying, or rather caneing my men: I have cauſe to remember having taught one of them to handle his Arms ſo well, that he mademe a while after unable to lift mine to my head: I had added to this, the Honour, of being a Militia Man, if you pleaſe, a Malitious Man, and returning from thence ſomewhat late, I found a perſon (who beleeving me an Officer of the Rump) was ſhiting at my Doore, but I made him know, I belonged to the Committe of Danger, though I committed him to Safety.</p>
+            <p>Who upon examination, confeſt his deſign of Blowing open my Door, and to force away my ſilver Head-peece, and my beloved Glaſſe, in which I firſt ſee me ſelf a Colonel. There are ſome who have added to my Title of Colonel, that of Shallow brains, but had they fathomed my dept, when I marched into <hi>Cornwal</hi> with my brother <hi>Hewſon</hi>) they would have waved it, for it might have been obſervable how I garded the blind ſide leaving his ſingle eye as a Butt to any markſman in hopes that being out, I might at laſt ſupply the office of a Dog and a Bell; to beg the cha<g ref="char:EOLhyphen"/>rity of the Gentlecraft: But alas! Fortune doth not alwayes favour Fools, for now though my Caſe be alturd, yet my ſhitten lucke hath its period: I now lament my impudent, intruding the Common Councel, for which I was ſhamefully turned out where each Man very readily lent me his foot to help me out of the crowed, I now bewaile my playing the changeling in going to the Exchange, and thruſting my Bet<g ref="char:EOLhyphen"/>ters from the wall, for now, alas! I cannot walke quietly in the channel, the leſſer boys being ready to piſſe upon me: but what grieves me moſt, is I am like to be deprived of the Office of <hi>Tichbourns</hi> Caſh-keeper (from which I have ſuckt more ſweetneſſe, than ever he did from his <hi>Cluſter of Canaans Grapes</hi>) by the loſſ: of which I ſhall be no longer able to proffer the Marchants ready Money, and then thoſe that lead me out of there Warehouſes then, will kick me out now: but I do but wait till my Brother <hi>Hewſon</hi> is cut down from the Gibbet, and then I ſhall ſave them that labour.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
